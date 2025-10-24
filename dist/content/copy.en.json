@@ -1,0 +1,31 @@
+{
+  "intro": {
+    "title": "What kind of trader are you?",
+    "paragraphs": [
+      "Every trader approaches the market differently: some rely on logic, some trust their instincts, others chase momentum.",
+      "Take this quick 6-question quiz and discover your unique trading style — based on your risk tolerance, decision-making, and market behavior.",
+      "It only takes 1–2 minutes. Ready to find out who you are on the market?"
+    ],
+    "cta": "Start"
+  },
+  "axes": {
+    "yTop": "High Risk Tolerance",
+    "yBottom": "Low Risk Tolerance",
+    "xLeft": "Intuition",
+    "xRight": "Strategy"
+  },
+  "universalResultIntro": [
+    "You've completed the Trading Style Quiz!",
+    "Markets are complex... your reactions to risk and your preference for intuition or structured strategy shape your behavior.",
+    "Based on your answers, we've calculated your position on the chart using two axes: Risk Tolerance (vertical) and Intuition–Strategy (horizontal). Your point shows the balance — that's your trading personality."
+  ],
+  "share": {
+    "title": "Share Your Result",
+    "btnShare": "Share on social media",
+    "btnDownload": "Download result card"
+  },
+  "designNotes": [
+    "Minimalistic, dark theme."
+  ]
+}
+

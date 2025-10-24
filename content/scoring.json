@@ -1,0 +1,5 @@
+{
+  "initial": { "RT": 0, "IS": 0 },
+  "chart": { "min": -6, "max": 6, "gridStep": 2, "pointRadius": 6 }
+}
+

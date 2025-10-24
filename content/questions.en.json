@@ -1,0 +1,69 @@
+[
+  {
+    "id": "q1",
+    "heading": "Choose the answer that feels most like you. There are no right or wrong choices here — your trading style is shaped by your personal decisions. Progress: Question {X} of 6",
+    "image": "/images/q1.png",
+    "prompt": "The market suddenly drops by 12% within minutes. What do you do?",
+    "options": [
+      { "id": "q1a", "label": "Jump in and buy aggressively — it's probably a temporary panic.", "delta": { "RT": 2, "IS": -1 } },
+      { "id": "q1b", "label": "Wait a bit, watch price action, and buy only if structure recovers.", "delta": { "RT": 1, "IS": 1 } },
+      { "id": "q1c", "label": "Exit positions or stay out until the market stabilizes.", "delta": { "RT": -2, "IS": 1 } }
+    ]
+  },
+  {
+    "id": "q2",
+    "heading": "Choose the answer that feels most like you. There are no right or wrong choices here — your trading style is shaped by your personal decisions. Progress: Question {X} of 6",
+    "image": "/images/q2.png",
+    "prompt": "You see a coin you've never traded before going parabolic (+50% in an hour). How do you react?",
+    "options": [
+      { "id": "q2a", "label": "This looks hot! Jump in with a small position to ride the momentum.", "delta": { "RT": 2, "IS": -2 } },
+      { "id": "q2b", "label": "Research the fundamentals first, then decide based on data.", "delta": { "RT": 0, "IS": 2 } },
+      { "id": "q2c", "label": "Pass — too risky, I stick to assets I understand.", "delta": { "RT": -2, "IS": 1 } }
+    ]
+  },
+  {
+    "id": "q3",
+    "heading": "Choose the answer that feels most like you. There are no right or wrong choices here — your trading style is shaped by your personal decisions. Progress: Question {X} of 6",
+    "image": "/images/q3.png",
+    "prompt": "Your portfolio is up 30% this month. Do you take profits or let it ride?",
+    "options": [
+      { "id": "q3a", "label": "Lock in profits — 30% is fantastic, no need to be greedy.", "delta": { "RT": -1, "IS": 1 } },
+      { "id": "q3b", "label": "Take some profits, let the rest run with stops.", "delta": { "RT": 0, "IS": 2 } },
+      { "id": "q3c", "label": "Ride it — momentum could double before I exit.", "delta": { "RT": 2, "IS": -1 } }
+    ]
+  },
+  {
+    "id": "q4",
+    "heading": "Choose the answer that feels most like you. There are no right or wrong choices here — your trading style is shaped by your personal decisions. Progress: Question {X} of 6",
+    "image": "/images/q4.png",
+    "prompt": "You're in a losing trade that hits your stop-loss, but you have a strong gut feeling it will reverse. What do you do?",
+    "options": [
+      { "id": "q4a", "label": "Trust the stop-loss and exit — rules are rules.", "delta": { "RT": -1, "IS": 2 } },
+      { "id": "q4b", "label": "Cut half the position and reassess — maybe adjust the strategy.", "delta": { "RT": 0, "IS": 1 } },
+      { "id": "q4c", "label": "Hold or even add — my instinct says the stop is wrong.", "delta": { "RT": 2, "IS": -2 } }
+    ]
+  },
+  {
+    "id": "q5",
+    "heading": "Choose the answer that feels most like you. There are no right or wrong choices here — your trading style is shaped by your personal decisions. Progress: Question {X} of 6",
+    "image": "/images/q5.png",
+    "prompt": "A major exchange announces a partnership that could change the industry. Do you trade the news immediately?",
+    "options": [
+      { "id": "q5a", "label": "Yes — buy before everyone else gets in on it.", "delta": { "RT": 1, "IS": -2 } },
+      { "id": "q5b", "label": "Wait for confirmation and volume spike, then enter carefully.", "delta": { "RT": 0, "IS": 2 } },
+      { "id": "q5c", "label": "Watch from the sidelines — news events are unpredictable.", "delta": { "RT": -2, "IS": 0 } }
+    ]
+  },
+  {
+    "id": "q6",
+    "heading": "Choose the answer that feels most like you. There are no right or wrong choices here — your trading style is shaped by your personal decisions. Progress: Question {X} of 6",
+    "image": "/images/q6.png",
+    "prompt": "You've been stuck in a range for weeks, making small losses. How do you handle it?",
+    "options": [
+      { "id": "q6a", "label": "Keep trying different strategies until something clicks.", "delta": { "RT": 1, "IS": -1 } },
+      { "id": "q6b", "label": "Go back to the charts, rework the strategy, test it systematically.", "delta": { "RT": -1, "IS": 2 } },
+      { "id": "q6c", "label": "Take a break — step away until clarity returns.", "delta": { "RT": -2, "IS": -1 } }
+    ]
+  }
+]
+

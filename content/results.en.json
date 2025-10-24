@@ -1,0 +1,71 @@
+[
+  {
+    "id": "HR_INT",
+    "name": "INSTINCTIVE DAREDEVIL",
+    "image": "/images/res-instinctive.png",
+    "description": "You thrive in fast-moving markets and enjoy the thrill of volatility. Your high risk tolerance combined with a strong intuition makes you unafraid to jump into opportunities others might shy away from. You read the market's energy and make quick decisions based on what feels right in the moment.",
+    "strengths": [
+      "Spot opportunities early",
+      "Confident in uncertain situations",
+      "React fast to market momentum"
+    ],
+    "cautions": [
+      "FOMO and impulsive entries",
+      "Overtrading during hype phases",
+      "Emotional attachment to positions"
+    ],
+    "tip": "Add just a bit more structure — it can multiply your natural instinct."
+  },
+  {
+    "id": "HR_STR",
+    "name": "CALCULATED RISK-TAKER",
+    "image": "/images/res-calculated.png",
+    "description": "You're comfortable taking significant risks, but only when backed by solid analysis and a clear strategy. You combine high risk tolerance with systematic thinking, allowing you to pursue larger positions and volatility while maintaining discipline.",
+    "strengths": [
+      "Strategic risk management",
+      "Confident in high-volatility plays",
+      "Balanced approach to high-stakes trades"
+    ],
+    "cautions": [
+      "Risking too much on structured bets",
+      "Overconfidence in analysis",
+      "Complex strategies can backfire"
+    ],
+    "tip": "Your structured approach is strong — remember to trust your gut sometimes too."
+  },
+  {
+    "id": "LR_STR",
+    "name": "DISCIPLINED PLANNER",
+    "image": "/images/res-disciplined.png",
+    "description": "You prefer low-risk, methodical approaches with clear rules and systematic execution. Your careful risk management and strategic mindset help you build steady, sustainable gains over time. You're patient and wait for high-probability setups.",
+    "strengths": [
+      "Consistent, controlled approach",
+      "Strong risk management",
+      "Excellent at following plans"
+    ],
+    "cautions": [
+      "Missing explosive opportunities",
+      "Overthinking can delay entries",
+      "Too conservative in trending markets"
+    ],
+    "tip": "You have solid discipline — occasionally trust the flow and take calculated leaps."
+  },
+  {
+    "id": "LR_INT",
+    "name": "CAUTIOUS OBSERVER",
+    "image": "/images/res-cautious.png",
+    "description": "You prefer lower-risk approaches and trust your instincts over complex strategies. You're careful and thoughtful, preferring to watch the market develop before making your move. When you do trade, it's often based on a strong intuitive sense rather than detailed analysis.",
+    "strengths": [
+      "Avoid major losses",
+      "Intuitive risk assessment",
+      "Patient and selective with entries"
+    ],
+    "cautions": [
+      "Missing trending moves",
+      "Hesitation can cost opportunities",
+      "Limited exposure to volatility"
+    ],
+    "tip": "Your cautious nature protects you — add more structured planning to boost confidence."
+  }
+]
+
