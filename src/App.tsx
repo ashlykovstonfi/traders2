@@ -15,11 +15,12 @@ function App() {
   useEffect(() => {
     const loadData = async () => {
       try {
+        const baseUrl = import.meta.env.BASE_URL;
         const [copyData, questionsData, resultsData, scoringData] = await Promise.all([
-          fetch('/content/copy.en.json').then((r) => r.json()),
-          fetch('/content/questions.en.json').then((r) => r.json()),
-          fetch('/content/results.en.json').then((r) => r.json()),
-          fetch('/content/scoring.json').then((r) => r.json()),
+          fetch(`${baseUrl}content/copy.en.json`).then((r) => r.json()),
+          fetch(`${baseUrl}content/questions.en.json`).then((r) => r.json()),
+          fetch(`${baseUrl}content/results.en.json`).then((r) => r.json()),
+          fetch(`${baseUrl}content/scoring.json`).then((r) => r.json()),
         ]);
 
         setCopy(copyData);

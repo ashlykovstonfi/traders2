@@ -23,3 +23,4 @@ export const ProgressBar: React.FC<ProgressBarProps> = ({ current, total }) => {
   );
 };
 
+
